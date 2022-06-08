@@ -61,3 +61,11 @@
 - 单元测试代码是多余的。系统的整体功能与各单元部件的测试正常与否是强相关的。
 - 单元测试代码不需要维护。一年半载后，那么单元测试几乎处于废弃状态。
 - 单元测试与线上故障没有辩证关系。好的单元测试能够最大限度地规避线上故障。
+
+Mockito:
+
+中文文档：https://github.com/imsingle/mockito-doc-zh#0
+
+官方文档：https://javadoc.io/doc/org.mockito/mockito-core/latest/org/mockito/Mockito.html#3
+
+官网地址：https://site.mockito.org/
